@@ -132,12 +132,15 @@ Optimal number is: 70 ICU, 650 regular beds
 
 #### Measure of error & risk
 Waiting time in regular queue:
+
 <img width="699" alt="image" src="https://user-images.githubusercontent.com/74312026/155222097-8a5ea2be-5b6b-492a-922a-a38a94cd0a49.png">
 
 Waiting time in ICU queue:
+
 <img width="701" alt="image" src="https://user-images.githubusercontent.com/74312026/155222142-399e8e2c-7e9a-4bf0-84a7-678d32fae594.png">
 
 Total time in hospital:
+
 <img width="701" alt="image" src="https://user-images.githubusercontent.com/74312026/155222326-fa70c052-4c09-4a2a-ad1c-9314c8fa3226.png">
 
 Error can be removed by increasing replication time. As the replication time increases, the 95% CIs of the mean, lower bound and upper bound all get narrow. However, inherit risk cannot be simulated away, which means that the results always will be intervals instead of fixed numbers. For example, we can think with certain that the mean, lower bound and upper bound of total time in the system are 10.78, 10.481 and 11.079, but we cannot give a specific system total time.
