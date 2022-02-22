@@ -14,9 +14,7 @@ Datetime transformation: calculate the sevice time (discharge date - admission d
 
 Severity level: divide the original value (0.00-0.99) to 5 levels
 
-<img width="426" alt="image" src="https://user-images.githubusercontent.com/74312026/155050890-46353837-5b0a-4cd8-b03f-bafb14413112.png">
-
-<img width="344" alt="image" src="https://user-images.githubusercontent.com/74312026/155051308-d3cf9e04-37e0-4203-8e93-06d574fb94de.png">
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/74312026/155050890-46353837-5b0a-4cd8-b03f-bafb14413112.png"> <img width="344" alt="image" src="https://user-images.githubusercontent.com/74312026/155051308-d3cf9e04-37e0-4203-8e93-06d574fb94de.png">
 
 The processed data is shown as:
 
