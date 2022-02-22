@@ -126,9 +126,9 @@ Use the sample variance of output fed with b bootstrapped input model to estimat
 #### Output analysis
 Simulation performance given different resource units: the number of resource units cannot get infinitely large, considering costs of machines, operation and maintainance. So, 70 ICU is a appropriate number since the results are acceptable and even if we increase this number, results won’t have significant change.
 
-  <img width="440" alt="image" src="https://user-images.githubusercontent.com/74312026/155220985-cef9cf03-d588-4b87-a70e-5f43fdad398b.png"><img width="440" alt="image" src="https://user-images.githubusercontent.com/74312026/155221036-5913587f-9c9f-4bbf-9386-bfe1a9a57a68.png">
+  <img width="440" alt="image" src="https://user-images.githubusercontent.com/74312026/155220985-cef9cf03-d588-4b87-a70e-5f43fdad398b.png">                      <img width="440" alt="image" src="https://user-images.githubusercontent.com/74312026/155221036-5913587f-9c9f-4bbf-9386-bfe1a9a57a68.png">
   
-Decide optimal number is: 70 ICU, 650 regular beds
+Optimal number is: 70 ICU, 650 regular beds
 
 #### Measure of error & risk
 Waiting time in regular queue:
