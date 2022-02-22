@@ -27,7 +27,9 @@ The processed data is shown as:
 
 ## Assumptions 
 ✓ Assume that only patients with level 4 or 5 would be considered to offer ICU treatment. 
+
 ✓ Assume that patients would be transfered to regular bed once severity level drops below 4, considering the high cost and high demand of ICU.
+
 ✓ Assume that Patients’ severity levels wouldn't change while waiting for the test results or treatments. (lack of data of severity level change under none-treatment situation)
 
 ## Model Components
