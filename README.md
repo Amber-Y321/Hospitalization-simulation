@@ -19,8 +19,7 @@ Severity level: divide the original value (0.00-0.99) to 5 levels
 
 Hospital bed number ratio: The ratio of regular bed number to ICU bed number was 9:1 at the beginning. But later, due to high demand of ICU, more ICU beds were added, so the ratio was fallen to 5. As the confirmed patient number deceased, this ratio went back to 6 in June. And from July, this ratio stabilized at 7.
 
-<img width="396" alt="image" src="https://user-images.githubusercontent.com/74312026/155052717-ce336800-a9d1-45d7-a1f4-da7b57ecb3e2.png">
-<img width="285" alt="image" src="https://user-images.githubusercontent.com/74312026/155052845-1904a801-baa0-4a8b-be68-d62c76a89e37.png">
+<img width="396" alt="image" src="https://user-images.githubusercontent.com/74312026/155052717-ce336800-a9d1-45d7-a1f4-da7b57ecb3e2.png">   <img width="285" alt="image" src="https://user-images.githubusercontent.com/74312026/155052845-1904a801-baa0-4a8b-be68-d62c76a89e37.png">
 
 The processed data is shown as:
 
