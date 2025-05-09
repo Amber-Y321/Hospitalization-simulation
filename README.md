@@ -1,6 +1,5 @@
 # Healthcare System Management under COVID-19 Pandemic
-Under COVID-19 pandemic, the hospital resource (i.e., doctors, nurses, beds, 
-equipment) allocation directly affects the public health. Here, we consider a NYC hospital treatment and developed a discrete-event simulation of emergency department to assess the system performance, predict the future response, and guide the decision making. 
+During the COVID-19 pandemic, hospital resource allocation—such as staffing, bed availability, and equipment—became a critical factor in patient outcomes. This project focuses on a New York City hospital's emergency department, where we developed a discrete-event simulation model to evaluate system performance, forecast patient flow, and support data-driven decision-making. The simulation enables strategic planning to improve treatment quality and reduce mortality under crisis conditions.
 
 ## Data Description
 hospitalization: patient admission time, patient ID, patient encounter ID, patient severity level, living status, patient discharge time
